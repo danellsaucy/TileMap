@@ -1,5 +1,5 @@
-# Seattle-Map-Tiles
-## For GEOG 458 Lab 4
+# TileMap
+## GEOG 458 Lab 4
 
 # Tile 1 - Basemap
 
